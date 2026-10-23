@@ -1,2 +1,2 @@
 # RAG
-it is RAG base application.where we can upload pfd and ask question about that   
+it is RAG base application.where we will evaluate RAG using deepeval 
